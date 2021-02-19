@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![plot](./images/Screenshot.jpeg)
+![plot](./images/Screenshot1.jpeg)
 
 ## Getting Started
 
