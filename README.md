@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![plot](./images/Screenshot.jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
